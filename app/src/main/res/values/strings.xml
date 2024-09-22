@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dominator</string>
+    <string name="check_your_network_connection">Please check your internet connection and try again.</string>
+</resources>
